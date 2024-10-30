@@ -1,0 +1,18 @@
+http://localhost:8082/upload-harvested
+
+http://localhost:8082/get-upload-harvested (POST)
+
+
+http://localhost:8082/upload-forwarder
+
+http://localhost:8082/get-upload-forwarder (POST)
+
+
+http://localhost:8082/generate-keys
+
+
+http://localhost:8082/user (POST)
+
+http://localhost:8082/user (GET)
+
+https://www.samltool.com/format_privatekey.php toString(key)

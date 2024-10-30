@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <Machine>
+      <MachineUserID>user5</MachineUserID>
+      <Summary>
+	  <VolumeLoaded>117m3</VolumeLoaded>
+	  <Terminal>Amarante</Terminal>
+	   <Powerplant>Amarante</Powerplant>
+	   <Hour>16:56</Hour>
+	   <Date>22-12-2022</Date>
+	  <FuelConsumption>300</FuelConsumption>
+      </Summary>
+   </Machine>

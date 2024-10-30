@@ -1,0 +1,8 @@
+http://localhost:8082/user-with-private-key
+
+{
+ "username": "user3",
+ "public_key": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEAscxrEAWJ54ROuk8rl19h6CZG3+PNWk/kqVM3mgK1GsaeMh18oT4z\n/hH0QkJPjPBVLQOzKSQFC2iyzPPljh4LLEKfK7QLPFiMYnynvZKwbbSYeYF9YZ6i\nBgi/zW8fPBBRZwU7TT7eyHu+iuOoYSAiobts3tAMEFzAzG9grRl+1mrFXT9JJj60\nYbCEqY0y/bCb8c3EpN11lTRjHsXaUnWVMoe6PKEFrtMFMNakWcZvpOOqo/jRXCnh\nwlNZ/T/4Vd2TNPnNhMmS2f8JmNYZb1CUGMDiNnGzmh8i97c8y3ojEyCEeY6GtzsZ\nfgmxs+7gmWJjqAXnSa7I0AThchXL1Jpf+wIDAQAB\n-----END RSA PUBLIC KEY-----\n"
+
+}
+

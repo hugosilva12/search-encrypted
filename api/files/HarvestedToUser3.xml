@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <Machine>
+      <MachineUserID>user3</MachineUserID>
+      <Summary>
+	  <VolumeCuted>117m3</VolumeCuted>
+       <Latitude>39.22623825</Latitude>
+       <Longitude>-8.30824947</Longitude>
+	<FuelConsumption>300</FuelConsumption>
+      </Summary>
+   </Machine>
